@@ -1,2 +1,2 @@
 # HospitalMangmtSystem
-Health care information system
+Health care information system for practice
